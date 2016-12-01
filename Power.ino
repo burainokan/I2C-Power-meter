@@ -1,13 +1,4 @@
-// This #include statement was automatically added by the Particle IDE.
 
-
-/*
-  Texas Instruments INA226 Control sample
-  tomozh@gmail.com
-  
-  2031.09.03 fix power miscalculation bug
-  2013.03.16 1st release
-*/
 
 #include "application.h"
 
